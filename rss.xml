@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Tha Luvv Bugg]]></title>
         <description><![CDATA[Tha Luvv Bugg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tha-luvv-bugg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 14:03:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 14:08:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tha-luvv-bugg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Queerious]]></title>
+            <description><![CDATA[<article><h1>Queerious</h1><p>About a week ago (Week ago! [Please don't judge me. {But seriously, don't you just hate nested brackets?}]) someone I follow on twitter posted something about how the increasing number of homosexual couples in popular shows riles him. Of course he got dragged. Twitter is good for that.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c67a050d409d56f0c77cb91334b71e88486c745.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tha-luvv-bugg/queerious/index.html</link>
+            <guid isPermaLink="false">d3e08923-08b7-4b4d-97fc-c994255192a6</guid>
+            <pubDate>Tue, 31 May 2016 14:08:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Extraterrestrial by Tomboxe]]></title>
             <description><![CDATA[<article><h1>Extraterrestrial by Tomboxe</h1><p>Shudy said let's go record. I said of course.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cebd128075916214d396d418a7bf2f3e7928aee.jpg"></article>]]></description>
