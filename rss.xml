@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tha Luvv Bugg]]></title>
+        <description><![CDATA[Tha Luvv Bugg]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 31 May 2016 14:03:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Extraterrestrial by Tomboxe]]></title>
+            <description><![CDATA[<article><h1>Extraterrestrial by Tomboxe</h1><p>Shudy said let's go record. I said of course.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cebd128075916214d396d418a7bf2f3e7928aee.jpg"></article>]]></description>
+            <link>https://soundcloud.com/tomboxe/extraterrestrial</link>
+            <guid isPermaLink="false">e50a82cc-4353-48ad-912d-872a037c1624</guid>
+            <pubDate>Tue, 31 May 2016 14:03:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
