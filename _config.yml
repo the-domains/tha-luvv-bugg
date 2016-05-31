@@ -1,7 +1,7 @@
 name: Tha Luvv Bugg
 favicon: null
-layout_spectrum: 0.7471402508672327
-typography_spectrum: 0.9899133376311511
+layout_spectrum: 1
+typography_spectrum: 0.18663
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#593996'
+    - '#ffffff'
+    - '#000000'
+    - '#949494'
+    - '#f23996'
   brandStrength: 0.078779123025015
   lightness: 0.42096035764552653
-  saturation: 0.9209692741278559
+  saturation: 0.625
   rhythmicContrast: 0.01509158150292933
 purpose: []
