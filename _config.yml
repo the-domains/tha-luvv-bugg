@@ -1,28 +1,40 @@
-name: Tha Luvv Bugg
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.18663
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Tha Luvv Bugg
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#593996'
-    - '#ffffff'
-    - '#000000'
-    - '#949494'
-    - '#f23996'
-  brandStrength: 0.078779123025015
-  lightness: 0.42096035764552653
-  saturation: 0.625
-  rhythmicContrast: 0.01509158150292933
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6505376
+  brandStrength: 0.5179211
+  lightness: 0.3727598
+  brandColors:
+    - '#E0C5EF'
+    - '#F8DAF6'
+    - '#C4B0E9'
+    - '#8085DC'
+    - '#8653BF'
+  rhythmicContrast: 0.7096774
+typography_spectrum: 0.1236559
+layout_spectrum: 0.9175627
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
